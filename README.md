@@ -1,7 +1,7 @@
 # RChain Cooperative Board
 Board minutes and related documents
 
-## [Bylaws](2017/08-28/Approved%20Bylaws.pdf)
+## [Bylaws](2017/08-28/Bylaws.md)
 
 ## [The RChain Board of Directors are](2017/11-14/Meeting%20Minutes.pdf):
 ### 3-year term
