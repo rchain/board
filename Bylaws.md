@@ -124,8 +124,8 @@ policies, resolutions, rules, and regulations not inconsistent with law, the art
 bylaws, for the management of RChain and the guidance of the members, officers, employees, and agents
 of RChain.
 
-The RChain Board may appoint and supervise one or more managers, who shall run the day-today
-business operations of RChain, including hiring and terminating employees, overseeing certain tasks,
+The RChain Board may appoint and supervise one or more managers, who shall run the day-to-
+day business operations of RChain, including hiring and terminating employees, overseeing certain tasks,
 and other activities and responsibilities as defined by the RChain Board. The RChain Board may only
 select members to serve as managers. The RChain Board shall set manager compensation. A manager
 shall be appointed for a term not to exceed one year, and may be appointed to a successive term upon a
@@ -166,13 +166,13 @@ have served as a Director for more than twelve consecutive years. The term limit
 preceding sentence will not, however:
 
 1) apply to any Director who is an Officer of RChain at the time of his or her election or
-appointment;or
+appointment; or
 
 2) prevent a person who would otherwise be ineligible for election or appointment to an
 additional consecutive term from later being elected or appointed to a new term after
 a period of at least two years has elapsed since his or her last service as a Director, or
-from being appointed to serve for an additional one-year term by no less than a sixtyseven
-percent (67%) majority vote of the elected Directors.
+from being appointed to serve for an additional one-year term by no less than a sixty-
+seven percent (67%) majority vote of the elected Directors.
 
 All elected Directors must also, at the time of their election and during their respective
 terms of office, satisfy such standards of independence as are prescribed by the Nominating and
@@ -258,7 +258,7 @@ or three or more Directors must be held either via teleconference or at RChainâ€
 Seattle, Washington. A special meeting may also be called by action of the RChain Board, to be held
 upon at least three daysâ€™ advance notice at such time and place as the Board may specify. Any required
 notice of a meeting of Directors may be waived in writing by any Director before, during, or after the
-meeting. Any required notice is presumed to be waived if no objection israised within two weeks after the
+meeting. Any required notice is presumed to be waived if no objection is raised within two weeks after the
 meeting.
 
 ### 15. Quorum; Majority Vote.
@@ -415,7 +415,7 @@ units or pools.
 
 Patronage dividends may be distributed in cash, any suitable cryptocurrency, merchandise credits,
 qualified or non-qualified written notices of allocation (as such terms are defined in 26 U.S.C. Sec. 1388),
-other property, or any combination of the above as determined from time to time by the RChainBoard.
+other property, or any combination of the above as determined from time to time by the RChain Board.
 
 Any patronage dividend distributed as a qualified or non-qualified written notice of allocation
 must be designated as such by the RChain Board in accordance with 26 U.S.C. Sec. 1388. RChain will
@@ -465,7 +465,7 @@ during such calendar year. This Section 6 does not limit the authority of the RC
 governing body of a Foreign Subsidiary to establish a fixed percentage or minimum patronage dividend or
 its equivalent that will be returned to active members based upon their purchases, even though the amount
 to be returned may exceed net distributable surplus for the applicable year, if such board or governing
-body determines that it is advantageous to do so for marketing or other businessreasons.
+body determines that it is advantageous to do so for marketing or other business reasons.
 
 ## ARTICLE VI - Token Governance
 ### 31. RChain Tokens
@@ -496,8 +496,8 @@ amendment or repeal.
 
 ## ARTICLE VIII - Amendment
 
-These Bylaws may be amended or repealed by the affirmative vote of no less than sixtyseven
-percent (67%) of the Directors in office, except where these Bylaws require a vote of the
+These Bylaws may be amended or repealed by the affirmative vote of no less than sixty-
+seven percent (67%) of the Directors in office, except where these Bylaws require a vote of the
 membership to effect a change or amendment. No such amendment or repeal may, however, alter
 in an adverse manner or reduce or diminish the rights and benefits of any current or former
 Director, Officer, employee or agent except with the advance written consent of each individual
