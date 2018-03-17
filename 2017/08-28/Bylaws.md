@@ -1,4 +1,4 @@
-The following markdown was derived from [2017/08-28/Approved Bylaws.pdf](2017/08-28/Approved%20Bylaws.pdf).
+The following markdown was derived from [2017/08-28/Approved Bylaws.pdf](/2017/08-28/Approved%20Bylaws.pdf).
 
 # RChain Cooperative Bylaws
 ## ARTICLE I - Purpose and Principles
