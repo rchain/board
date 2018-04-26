@@ -22,4 +22,4 @@ Board minutes and related documents
 
 ## Notable documents
  - [Reflective Ventures agreement](2018/01-05/RChain%20Ventures%20Agreement%20FINAL.pdf)
- - [Articles of Incorporation](2017/01-10/RChain%20Cooperative%20-%20Articles%20of%20Incorporation%20with%20RA)
+ - [Articles of Incorporation](2017/01-10/RChain%20Cooperative%20-%20Articles%20of%20Incorporation%20with%20RA.pdf)
