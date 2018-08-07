@@ -11,7 +11,7 @@ Board minutes and related documents
 ### 2-year term
  - Kenny Rowe
  - Evan Jensen
- - Alexandr Bulkin
+ - ~~Alexandr Bulkin (resigned)~~
 ### 1-year term
  - Navneet Suman
  - Henrik Jan Hilbolling
