@@ -8,14 +8,14 @@ Board minutes and related documents
  - Lucius Gregory Meredith
  - Vlad Zamfir
  - Ian Bloom
+ - Kevin Goldstein
+ - Open
+ - Open
 ### 2-year term
  - Kenny Rowe
  - Evan Jensen
- - ~~Alexandr Bulkin (resigned)~~
 ### 1-year term
- - Navneet Suman
- - Henrik Jan Hilbolling
- - David Currin
+ - Barry Cynamon
  
 ## Vote Results
 ### [2017](2017/11-14/Meeting%20Minutes.pdf)
