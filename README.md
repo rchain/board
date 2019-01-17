@@ -20,7 +20,7 @@ Board minutes and related documents
 
 ## Member Vote Results:
 ### [2018](2018/11-06/2018%20Election%20Results.pdf)
-### [2017](2017/11-14/Meeting%20Minutes.pdf
+### [2017](2017/11-14/Meeting%20Minutes.pdf)
 
 ## Notable documents
  - [Reflective Ventures agreement](2018/01-05/RChain%20Ventures%20Agreement%20FINAL.pdf)
