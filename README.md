@@ -3,21 +3,23 @@ Board minutes and related documents
 
 ## [Bylaws](2017/08-28/Bylaws.md)
 
-## [The RChain Board of Directors are](2017/11-14/Meeting%20Minutes.pdf):
-### 3-year term
- - Lucius Gregory Meredith
- - Vlad Zamfir
- - Ian Bloom
- - Kevin Goldstein
- - Open
- - Open
-### 2-year term
- - Kenny Rowe
- - Evan Jensen
-### 1-year term
- - Barry Cynamon
- 
-## Vote Results
+## RChain Board of Directors:
+### Serving until 10/24/21
+ - Kevin Goldstein (elected 10/24/18)
+### Serving until 10/24/20
+ - Greg Meredith (elected 10/24/17)
+ - Vlad Zamfir (elected 10/24/17)
+ - Ian Bloom (elected 10/24/17)
+ ### Serving until 10/24/19
+ - Kenny Rowe (elected 10/24/17)
+ - Evan Jensen (elected 10/24/17)
+ - Barry Cynamon (elected 10/24/18)
+ ### Serving until next election
+ - Mark Pui ([appointed](2018/12-21/20181221%20Board%20Resolution%20-%20Board%20Meeting%2012-21-18.pdf) 12/21/18)
+ - Steve Ross-Talbot ([appointed](2018/12-21/20181221%20Board%20Resolution%20-%20Board%20Meeting%2012-21-18.pdf) 12/21/18)
+
+## Member Vote Results:
+### [2018](2018/11-06/2018%20Election%20Results.pdf)
 ### [2017](2017/11-14/Meeting%20Minutes.pdf)
 
 ## Notable documents
