@@ -1,4 +1,4 @@
-Markddown rendering of [Board Resolution - Board Meeting 03-05-19.pdf](https://github.com/rchain/board/blob/master/2019/03-05/Board%20Resolution%20-%20Board%20Meeting%2003-05-19.pdf)
+Markdown rendering of [Board Resolution - Board Meeting 03-05-19.pdf](https://github.com/rchain/board/blob/master/2019/03-05/Board%20Resolution%20-%20Board%20Meeting%2003-05-19.pdf)
 
 ##
 
