@@ -1,7 +1,7 @@
 # RChain Cooperative Board
 Board minutes and related documents
 
-## [Bylaws](2017/08-28/Bylaws.md)
+## [Bylaws](Bylaws.md)
 
 ## RChain Board of Directors:
 ### Serving until 10/24/20
