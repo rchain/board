@@ -7,7 +7,6 @@ Board minutes and related documents
 ### Serving until 10/24/20
  - Greg Meredith (elected 10/24/17)
  - Vlad Zamfir (elected 10/24/17)
- - Ian Bloom (elected 10/24/17)
 ### Serving until 10/24/19
  - Evan Jensen (elected 10/24/17)
 ### Serving until next election
