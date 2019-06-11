@@ -1,4 +1,4 @@
-Markdown rendering of [stub](https://github.com/rchain/board/blob/master/2019/06-04/stub)
+Markdown rendering of [Board_Resolution_-_Board_Meeting_6-4-19.pdf](https://github.com/rchain/board/blob/master/2019/06-04/Board_Resolution_-_Board_Meeting_6-4-19.pdf)
 
 ##
 
@@ -36,7 +36,7 @@ In response to the communities interest in purchasing more RHOC, the board has c
 
 ## Resolution to sell 15 Million RHOC
 
-Greg Meredith motioned to sell sell 15 Million RHOC in three tranches of 5M each, tied to phases 1 - 3 of TestNet. In phase 1 the RHOC will be available at $0.1/RHOC; in phase 2 $0.125/RHOC; and in phase 3 $0.15/RHOC. The proposal was seconded by Steve Ross-Talbot. All board members present voted unanimously to pass the resolution. A special meeting will be scheduled for June 11 for the board to approve the specifics of the term sheet.
+Greg Meredith motioned to sell 15 Million RHOC in three tranches of 5M each, tied to phases 1 - 3 of TestNet. In phase 1 the RHOC will be available at $0.1/RHOC; in phase 2 $0.125/RHOC; and in phase 3 $0.15/RHOC. The proposal was seconded by Steve Ross-Talbot. All board members present voted unanimously to pass the resolution. A special meeting will be scheduled for June 11 for the board to approve the specifics of the term sheet.
 
 ## Co-op Governance
 
@@ -76,7 +76,7 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 ##
 
->These minutes were approved by the Board of Directors on June __, 2019
+>These minutes were approved by the Board of Directors on June 11, 2019
 >
 > `__________________`
 > Lilia Rusu, Secretary
