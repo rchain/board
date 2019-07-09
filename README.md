@@ -11,6 +11,7 @@ Board minutes and related documents
  - Evan Jensen (elected 10/24/17)
 ### Serving until next election
  - Steve Ross-Talbot ([appointed](2018/12-21/20181221%20Board%20Resolution%20-%20Board%20Meeting%2012-21-18.pdf) 12/21/18)
+ - Eric Meng (appointed 7/2/19)
 ## Member Vote Results:
 ### [2018](2018/11-06/2018%20Election%20Results.pdf)
 ### [2017](2017/11-14/Meeting%20Minutes.pdf)
