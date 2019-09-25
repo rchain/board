@@ -20,7 +20,7 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 ##
 
 ## Amend Monetary Policy ([2019 IOB#5](https://github.com/rchain/legaldocs/tree/master/2018%20Annual%20Meeting/RChain%20Monetary%20Policy%20V2%20-Final))
-Greg Meredith proposed, "In the light of both new economic norms as well as potential security classification advice we have received, we propose changing IOB5 to reduced the amount governed to 264M RHOC, with the delta coming from the reserve wallet, and reallocated to sale wallet for the purpose of building the RChain ecosystem."
+Greg Meredith proposed, "In the light of both new economic norms as well as potential security classification advice we have received, we propose changing IOB5 to reduced the amount governed to 264M RHOC, with the delta coming from the reserve wallet, and reallocated to Treasury wallet for the purpose of building the RChain ecosystem."
 
 The resolution was seconded by Steve Ross-Talbot, and all board members present voted "yes".
 
