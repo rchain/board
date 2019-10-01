@@ -24,6 +24,9 @@ Greg Meredith proposed, "In the light of both new economic norms as well as pote
 
 The resolution was seconded by Steve Ross-Talbot, and all board members present voted "yes".
 
+## Approval of Prior Minutes
+
+Greg Meredith resolves to approve the minutes of the previous two board meetings held on July 22 and August 6 of this year. All members present vote unanimously in favor.
 
 ##
 
