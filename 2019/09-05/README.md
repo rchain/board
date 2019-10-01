@@ -20,6 +20,10 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 ##
 
 ## Amend Monetary Policy ([2019 IOB#5](https://github.com/rchain/legaldocs/tree/master/2018%20Annual%20Meeting/RChain%20Monetary%20Policy%20V2%20-Final))
+
+On September 5, the Co-op's *Governance Committee* recommended:
+"As a result of RChain’s changing economic conditions including the devaluation of RHOC during the *Crypto-Winter*, and changed organizational relationships and resources (e.g. Pythia, Reflective, Marketing group etc. no more in the picture but similar new initiatives needed for survival and growth)  the provisions of 2018 IOB5 should be reconsidered."
+
 Greg Meredith proposed, "In the light of both new economic norms as well as potential security classification advice we have received, we propose changing IOB5 to reduced the amount governed to 264M RHOC, with the delta coming from the reserve wallet, and reallocated to Treasury wallet for the purpose of building the RChain ecosystem."
 
 The resolution was seconded by Steve Ross-Talbot, and all board members present voted "yes".
