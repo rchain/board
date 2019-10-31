@@ -1,4 +1,4 @@
-# Unsigned Draft
+Markdown rendering of [https://github.com/rchain/board/blob/master/2019/09-05/Signed_Minutes_2019-09-05.pdf](/2019/09-05/Signed_Minutes_2019-09-05.pdf)
 ##
 
 # RCHAIN COOPERATIVE
@@ -9,10 +9,8 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ##
 
-*Present:  Lucius Gregory Meredith, Steve Ross-Talbot, Eric Meng, Evan Jensen*
-
-*Absent:  Vlad Zamfir*
-
+*Present:  Lucius Gregory Meredith, Steve Ross-Talbot, Eric Meng, Evan Jensen*\
+*Absent:  Vlad Zamfir*\
 *Others Present:  Lilia Rusu, Ian Bloom, Steve Henley*
 
 *Meeting called to order at 12:00 PDT.*
