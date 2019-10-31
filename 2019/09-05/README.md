@@ -1,4 +1,4 @@
-Markdown rendering of [https://github.com/rchain/board/blob/master/2019/09-05/Signed_Minutes_2019-09-05.pdf](/2019/09-05/Signed_Minutes_2019-09-05.pdf)
+Markdown rendering of [/2019/09-05/Signed_Minutes_2019-09-05.pdf](/2019/09-05/Signed_Minutes_2019-09-05.pdf)
 ##
 
 # RCHAIN COOPERATIVE
@@ -38,7 +38,7 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 ##
 
->These minutes were approved by the Board of Directors on `___date____`
+>These minutes were approved by the Board of Directors on October 1, 2019.
 >
 > `___unsigned__________`
 > Lilia Rusu, Secretary
