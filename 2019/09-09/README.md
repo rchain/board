@@ -1,4 +1,5 @@
-# Unsigned Draft
+Markdown rendering of [/2019/09-09/Signed_Minutes_2019-09-09.pdf](/2019/09-09/Signed_Minutes_2019-09-09.pdf)
+
 ##
 
 # RCHAIN COOPERATIVE
@@ -9,10 +10,8 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ##
 
-*Present:  Lucius Gregory Meredith, Steve Ross-Talbot, Eric Meng*
-
-*Absent:  Vlad Zamfir, Evan Jensen*
-
+*Present:  Lucius Gregory Meredith, Steve Ross-Talbot, Eric Meng*\
+*Absent:  Vlad Zamfir, Evan Jensen*\
 *Others Present:  Lilia Rusu, Ian Bloom*
 
 *Meeting called to order at 12:00 PDT.*
@@ -30,7 +29,7 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 ##
 
->These minutes were approved by the Board of Directors on `___date____`
+>These minutes were approved by the Board of Directors on October 1, 2019
 >
-> `___unsigned__________`
+> `___signed__________`
 > Lilia Rusu, Secretary
