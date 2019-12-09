@@ -4,15 +4,21 @@ Board minutes and related documents
 ## [Bylaws](Bylaws.md)
 
 ## RChain Board of Directors:
+### Serving until 10/24/22
+ - Eric Meng ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
+ - Steve Ross-Talbot ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
+ - Steve Henley ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
+### Serving until 10/24/21
+  - Dan Salkov ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
+  - Evan Jensen  ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
+  - Darryl Neudorf ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
+
 ### Serving until 10/24/20
  - Greg Meredith (elected 10/24/17)
  - Vlad Zamfir (elected 10/24/17)
-### Serving until 10/24/19
- - Evan Jensen (elected 10/24/17)
-### Serving until next election
- - Steve Ross-Talbot ([appointed](2018/12-21/20181221%20Board%20Resolution%20-%20Board%20Meeting%2012-21-18.pdf) 12/21/18)
- - Eric Meng (appointed 7/2/19)
+
 ## Member Vote Results:
+### [2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting)
 ### [2018](2018/11-06/2018%20Election%20Results.pdf)
 ### [2017](2017/11-14/Meeting%20Minutes.pdf)
 
