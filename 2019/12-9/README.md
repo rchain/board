@@ -15,9 +15,9 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ##
 
-## VP of Chinese Operations
+## Head of Chinese Operations
 
-Co-op President Greg Meredith will appoint Lory Luo as RChain Cooperative's "VP of Chinese Operations", pending the ratification of her employment contract.
+Co-op President Greg Meredith will appoint Lory Luo as RChain Cooperative's "Head of Chinese Operations", pending the ratification of her employment contract.
 
 
 ## Preparation for Sale of 25 Million RHOC
