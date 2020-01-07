@@ -15,9 +15,9 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ##
 
-## Head of Chinese Operations
+## Chinese Operations
 
-Co-op President Greg Meredith will appoint Lory Luo as RChain Cooperative's "Head of Chinese Operations", pending the ratification of her employment contract.
+Co-op member Lory Luo will coordinate the Cooperative's Chinese community through her LLC., "Chain - Assets Holding Ltd." in Hong Kong.
 
 
 ## Preparation for Sale of 25 Million RHOC
