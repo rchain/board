@@ -29,7 +29,7 @@ Greg Meredith reviewed several deals being discussed that will fund ongoing oper
 
 ## Approval of Last Month's Minutes
 
-Greg Meredith motions to approve the minutes of the last board meeting, held on November 5. Evan Jensen seconds the motion, and all members present vote unanimously in favor.
+Greg Meredith motions to approve the minutes of the last board meeting, held on December 9. Evan Jensen seconds the motion, and all members present vote unanimously in favor.
 
 
 *Meeting adjourned at 2:30 PST.*
