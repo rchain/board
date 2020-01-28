@@ -24,7 +24,9 @@ Co-op member Lory Luo will coordinate the Cooperative's Chinese community throug
 
 Greg Meredith proposed that the Cooperative make available for sale 25 Million RHOC, either from the Treasury Wallet or Reserve Wallet as needed, to be transfered to the sale wallet for the purpose of fundraising, authorizing the executive to set the price no lower than $0.10/RHOC.
 
+## Approval of Last Month's Minutes
 
+Greg Meredith motions to approve the minutes of the previous two board meetings, held on October 21 and November 5. Steve Ross-Talbot seconds the motion, and all members present vote unanimously in favor.
 
 *Meeting adjourned at 2:30 PST.*
 
