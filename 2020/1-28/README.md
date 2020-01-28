@@ -16,8 +16,8 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ##
 
-## Policy on Tainted RHOC
-Greg Meredith proposed the following policy (Attached) describing how to account for tainted RHOC balances in the RChain genesis block. Steve Ross-Talbot seconded the proposal, and all directors in attendance unanimously voted their approval.
+## Accounting for Invalidated RHOC
+Greg Meredith proposed the following policy ([Attached](/2020/1-28/Accounting_for_Invalidated_RHOC.pdf)) describing how to account for RHOC balances in addresses invalidated by previous board action. Steve Ross-Talbot seconded the proposal, and all directors in attendance unanimously voted their approval.
 
 *Meeting adjourned at 1:00 PM PST.*
 
