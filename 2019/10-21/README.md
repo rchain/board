@@ -1,4 +1,5 @@
-# DRAFT
+Markdown rendering of [2019/10-21/20191021-DocuSign.pdf](/2019/10-21/20191021-DocuSign.pdf)
+##
 
 # RCHAIN COOPERATIVE
 
@@ -37,5 +38,5 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 >These minutes were approved by the Board of Directors on December 9, 2019.
 >
-> `___unsigned__________`
+> `___signed__________`
 > Lilia Rusu, Secretary
