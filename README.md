@@ -9,7 +9,6 @@ Board minutes and related documents
  - Steve Ross-Talbot ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
  - Steve Henley ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
 ### Serving until 10/24/21
-  - Dan Salkov ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
   - Evan Jensen  ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
   - Darryl Neudorf ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
 
