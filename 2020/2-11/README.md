@@ -2,7 +2,7 @@
 
 # RCHAIN COOPERATIVE
 
-## RESOLUTIONS BY THE BOARD OF DIRECTORS AT A DULY CALLED MEETING
+## RESOLUTIONS BY THE BOARD OF DIRECTORS AT A DULY CALLED SPECIAL MEETING
 
 The undersigned, being all of the members of the Board of Directors of RChain Cooperative, (the “Board”), a Washington cooperative (the “Coop”), pursuant to RCW 23.86, hereby approve and adopt the following resolutions at a duly called meeting (the “Resolutions”) held telephonically on February 11, 2020:
 
@@ -29,7 +29,9 @@ Whereas RChain Cooperative has not supported the development of secondary market
 | 0x6e75bc5e6547a67f7cb12709decb2bb28e880c74 |   0.00          |
 | 0xdcb05f9afa10f0cf405ed39502d4916cbd96cf74 |   0.00          |
 
-For a total recovery of 56,989,173.36 RHOC. The remaining 7.6 million RHOC from Barcelona and 5 million that Pithia dumped on Kucoin will not be recovered. 
+For a total recovery of 56,989,173.36 RHOC. The remaining 7.6 million RHOC from Barcelona and 5 million that Pithia dumped on Kucoin will not be recovered.
+
+This resolution was written collaboratively by those present, and brought to a vote by Steve Henley. Eric Meng seconded the motion. Greg Meredith abstains, and all other board members present voted in favor.
 
 ##
 
