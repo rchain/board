@@ -28,9 +28,12 @@ Whereas RChain Cooperative has not supported the development of secondary market
 | 0x62917a5bce92bc34bdc6b9254b3cc426d52752f3 |   1,588,740.00  |
 | 0x6e75bc5e6547a67f7cb12709decb2bb28e880c74 |   0.00          |
 | 0xdcb05f9afa10f0cf405ed39502d4916cbd96cf74 |   0.00          |
+| 0xfd9b2240ff070417fb04b6db3944692334916056 |   0.00          |
+| 0x5c13a7f45fEe20876e2359698AB55b914C1156db |   0.00          |
+| 0x44948d4bcf984ee51d9e1127f3a0e4bc46bd6910 |   0.00          |
 | 0x3198af8d57cba0ba93a7f861432f148b37c3af98 |   0.00          |
 
-For a total recovery of 56,989,173.36 RHOC. The remaining 3.3 million RHOC from Barcelona and 5 million that Pithia dumped on Kucoin will not be recovered.
+For a total recovery of 62,104,258.36 RHOC. The remaining ~2.5 million RHOC from Barcelona and 5 million that Pithia dumped on Kucoin will not be recovered.
 
 This resolution was written collaboratively by those present, and brought to a vote by Steve Henley. Eric Meng seconded the motion. Greg Meredith abstains, and all other board members present voted in favor.
 
