@@ -1,4 +1,4 @@
-# DRAFT - Looks like Kucoin was able to freeze some of their customer's accounts holding invalidated RHOC, meaning Co-op will be recovering much more, and the numbers below will change.
+# DRAFT
 
 # RCHAIN COOPERATIVE
 
