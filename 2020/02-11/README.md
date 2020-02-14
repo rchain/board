@@ -35,7 +35,7 @@ Whereas RChain Cooperative has not supported the development of secondary market
 | 0xbbd9312f8fb2ae80e99cf661b47d8f3f1f151b5c |          0.0000  |
 | 0x689c56aef474df92d44a1b70850f808488f9769c | 23,826,642.8857  |
 
-The remaining ~2.5 million RHOC from Barcelona will not be recovered.
+For a total recovery of 67,119,258.36 RHOC. The remaining ~2.5 million RHOC from Barcelona will not be recovered.
 
 This resolution was written collaboratively by those present, and brought to a vote by Steve Henley. Eric Meng seconded the motion. Greg Meredith abstains, and all other board members present voted in favor.
 
