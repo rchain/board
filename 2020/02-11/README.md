@@ -22,7 +22,6 @@ Whereas RChain Cooperative has not supported the development of secondary market
 | Address                                    | Balance          |
 |--------------------------------------------|------------------|
 | 0x583c3bceb7b517acaeca84bce7c7266d7290a7aa |          0.0000  |
-| 0x44d37b82cbbb410a42725d3a51c7f84f3bda12a7 |    216,991.4641  |
 | 0xaa9bdb711a1ff305f398777c65ac70be6bf0fa5f |          0.0000  |
 | 0xbdcbf01d5a0fbe303a4863b7331f4c3b87db7cc2 |  1,059,541.0826  |
 | 0x62917a5bce92bc34bdc6b9254b3cc426d52752f3 |  1,588,740.0000  |
@@ -35,7 +34,7 @@ Whereas RChain Cooperative has not supported the development of secondary market
 | 0xbbd9312f8fb2ae80e99cf661b47d8f3f1f151b5c |          0.0000  |
 | 0x689c56aef474df92d44a1b70850f808488f9769c | 23,826,642.8857  |
 
-For a total recovery of 67,119,258.36 RHOC. The remaining ~2.5 million RHOC from Barcelona will not be recovered.
+For a total recovery of 54,773,258.3565 RHOC. The remaining ~2.5 million RHOC from Barcelona will not be recovered.
 
 This resolution was written collaboratively by those present, and brought to a vote by Steve Henley. Eric Meng seconded the motion. Greg Meredith abstains, and all other board members present voted in favor.
 
