@@ -32,7 +32,7 @@ Whereas RChain Cooperative has not supported the development of secondary market
 | 0x44948d4bcf984ee51d9e1127f3a0e4bc46bd6910 |          0.0000  |
 | 0x3198af8d57cba0ba93a7f861432f148b37c3af98 |          0.0000  |
 | 0xbbd9312f8fb2ae80e99cf661b47d8f3f1f151b5c |          0.0000  |
-| 0x689c56aef474df92d44a1b70850f808488f9769c | 23,826,642.8857  |
+| 0x689c56aef474df92d44a1b70850f808488f9769c | 23,816,642.8857  |
 
 For a total recovery of 60,869,258 RHOC. The remaining 2,469,416 RHOC from Barcelona will not be recovered.
 
