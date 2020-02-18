@@ -4,7 +4,7 @@
 
 ## RESOLUTIONS BY THE BOARD OF DIRECTORS AT A DULY CALLED SPECIAL MEETING
 
-The undersigned, being all of the members of the Board of Directors of RChain Cooperative, (the “Board”), a Washington cooperative (the “Coop”), pursuant to RCW 23.86, hereby approve and adopt the following resolutions at a duly called meeting (the “Resolutions”) held telephonically on February 11, 2020:
+The undersigned, being all of the members of the Board of Directors of RChain Cooperative, (the “Board”), a Washington cooperative (the “Coop”), pursuant to RCW 23.86, hereby approve and adopt the following resolutions at a duly called meeting (the “Resolutions”) held telephonically on February 18, 2020:
 
 ##
 
