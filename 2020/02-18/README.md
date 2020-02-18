@@ -9,7 +9,7 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 ##
 
 *Directors Present: Greg Meredith, Eric Meng, Steve Ross-Talbot , Darryl Neudorf, Steve Henley* \
-*Absent: Vlad Zamfir* \
+*Absent: Vlad Zamfir, Evan Jensen* \
 *Others Present:  Lilia Rusu, Ian Bloom * \
 *Meeting called to order at 12:00 PM PDT.*
 
