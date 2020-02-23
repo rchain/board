@@ -1,5 +1,5 @@
-# DRAFT
-
+Markdown rendering of [2020/02-11/Signed_20200211_minutes.pdf](/2020/02-11/Signed_20200211_minutes.pdf)
+##
 # RCHAIN COOPERATIVE
 
 ## RESOLUTIONS BY THE BOARD OF DIRECTORS AT A DULY CALLED SPECIAL MEETING
@@ -46,7 +46,7 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 ##
 
->These minutes were approved by the Board of Directors on March ___, 2020.
+>These minutes were approved by the Board of Directors on February 18, 2020.
 >
-> `___unsigned__________`
+> `___see docusign pdf__________`
 > Lilia Rusu, Secretary
