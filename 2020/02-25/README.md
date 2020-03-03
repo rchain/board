@@ -8,8 +8,8 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ##
 
-*Directors Present: Greg Meredith, Eric Meng, Steve Ross-Talbot , Darryl Neudorf, Steve Henley, Evan Jensen* \
-*Absent: Vlad Zamfir* \
+*Directors Present: Greg Meredith, Eric Meng, Darryl Neudorf, Steve Henley, Evan Jensen* \
+*Absent: Steve Ross-Talbot, Vlad Zamfir* \
 *Others Present:  Lilia Rusu, Ian Bloom, Lory Tian* \
 *Meeting called to order at 1:30 PM PDT.*
 
@@ -17,7 +17,7 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ## Resolution to Open Deployment Ports
 
-Steve Ross-Talbot proposes opening the TCP deployment ports on the Co-op's validator nodes, allowing smart contract deployments. As a consequence, the Co-op will offer staking slots to interested parties.
+Steve Henley proposes opening the TCP deployment ports on the Co-op's validator nodes, allowing smart contract deployments. As a consequence, the Co-op will offer staking slots to interested parties.
 Greg Meredith seconds the proposal. Darryl Neudorf votes no. All other members present voted in favor of the proposal.
 
 ##
