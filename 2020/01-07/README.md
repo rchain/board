@@ -21,7 +21,7 @@ After closing out 3 last pull requests, the Co-op will announce an Ethereum bloc
 
 ## REV Issuance at Genesis
 
-Greg Meredtih asked the board for comments regarding the implementation of previous board decisions affecting the exclusion of individual RHOC addresse balances at Genesis. There were no comments.
+Greg Meredtih asked the board for comments regarding the implementation of previous board decisions affecting the exclusion of individual RHOC address balances at Genesis. There were no comments.
 
 ## Funding Co-op Operations
 
