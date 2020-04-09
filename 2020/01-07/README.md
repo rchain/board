@@ -1,4 +1,6 @@
-# DRAFT
+Markdown rendering of [20200107.pdf](/2020/01-07/20200107.pdf)
+
+##
 
 # RCHAIN COOPERATIVE
 
@@ -38,7 +40,6 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 ##
 
->These minutes were approved by the Board of Directors on January ___, 2019.
+>These minutes were approved by the Board of Directors on April 7, 2020.
 >
-> `___unsigned__________`
 > Lilia Rusu, Secretary
