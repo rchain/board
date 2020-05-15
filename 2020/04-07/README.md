@@ -35,7 +35,7 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 ##
 
->These minutes were approved by the Board of Directors on April ___, 2020.
+>These minutes were approved by the Board of Directors on May 5, 2020.
 >
 > `___signed__________`
 > Lilia Rusu, Secretary
