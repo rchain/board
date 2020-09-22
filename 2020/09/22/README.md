@@ -15,7 +15,7 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ## BOD Resolution: Board Nominee Ballot
 
-We resolve to accept the nominating committee’s recommendations and ballot the following members for the October 24, 2020 election of RChain Board director seats: Greg Meredith, Rao Bhamidipati, Camilla Salkov, and Kane Luo.
+We resolve to accept the nominating committee’s recommendations and ballot the following members for the October 24, 2020 election of RChain Board director seats: Greg Meredith, Rao Bhamidipati, Camilla Remaley, and Kane Luo.
 
 Steve Ross-Talbot motioned to vote on the preceding resolution (Board Nominee Ballot). The motion was seconded by Greg Meredith. All board members present voted unanimously in favor of the resolution.
 
