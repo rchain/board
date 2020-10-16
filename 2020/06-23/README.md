@@ -16,7 +16,7 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ## BOD Resolution: Member REV Address for Voting
 
-To vote in the Annual General Meeting (AGM) in October, members must provide a REV address to the Co-op, no later than October 20th, 2020.  To incentivize speedy action on the part of the membership, the board resolves to give 100 REV to each already ID-verified member that sends RChain a REV address by July 31st to the email address mem-gov@rchain.coop, to be used for Co-op coordination and governance, including the AGM.  Providing a REV address constitutes a reaffirmation and execution of the [membership agreement](https://github.com/rchain/legaldocs/blob/master/Coop_Membership_Agreement.md).
+To vote in the Annual General Meeting (AGM) in October, members must provide a REV address to the Co-op, no later than October 20th, 2020.  To incentivize speedy action on the part of the membership, the board resolves to give 100 REV to each already ID-verified member that sends RChain a REV address by July 31st, to be used for Co-op coordination and governance, including the AGM.  Providing a REV address constitutes a reaffirmation and execution of the [membership agreement](https://github.com/rchain/legaldocs/blob/master/Coop_Membership_Agreement.md).
 
 Greg Meredith motioned to vote on the preceding resolution (REV Address for Voting). The motion was seconded by Steve Ross-Talbot. All board members present voted unanimously in favor of the resolution.
 
