@@ -23,7 +23,7 @@ On a motion by Steve Henley, and seconded by Greg Meredith, it was moved to appr
 - [05-05](https://github.com/rchain/board/tree/master/2020/05-05)
 - [06-02](https://github.com/rchain/board/tree/master/2020/06-02)
 - [06-23](https://github.com/rchain/board/tree/master/2020/06-23) With the following change:
-To incentivize speedy action on the part of the membership, the board resolves to give 100 REV to each already ID-verified member that sends RChain a REV address by July 31st to the email address mem-gov@rchain.coop, to be used for Co-op coordination and governance, including the AGM. 
+To incentivize speedy action on the part of the membership, the board resolves to give 100 REV to each already ID-verified member that sends RChain a REV address by July 31st~~to the email address mem-gov@rchain.coop~~, to be used for Co-op coordination and governance, including the AGM. 
 - [06-30](https://github.com/rchain/board/tree/master/2020/06-30)
 - [08-04](https://github.com/rchain/board/tree/master/2020/08-04)
 - [08-25](https://github.com/rchain/board/tree/master/2020/08-25)
