@@ -1,4 +1,4 @@
-<!Markdown rendering of [20200505_minutes.pdf](/2020/05-05/20200505_minutes.pdf)->
+Markdown rendering of [20200505_minutes.pdf](/2020/05-05/20200505_minutes.pdf)
 
 # RCHAIN COOPERATIVE
 
@@ -30,6 +30,8 @@ Steve Henley motioned to approve the minutes of April board meetings held on Apr
 FINALLY RESOLVED, that any or all actions heretofore taken by any director of the Company with respect to any matter referred to or contemplated by the foregoing resolutions be, and hereby is, ratified and confirmed as the act and deed of the Company.
 
 >These minutes were approved by the Board of Directors on October 6, 2020.
->
-> `_______signed_________________`
+>\
+>\
+>\
+> `_____signed___________________________`
 > Lilia Rusu, Secretary
