@@ -1,4 +1,4 @@
-<!Markdown rendering of [20200602_minutes.pdf](/2020/06-02/20200602_minutes.pdf)->
+Markdown rendering of [20200602_minutes.pdf](/2020/06-02/20200602_minutes.pdf
 
 # RCHAIN COOPERATIVE
 
@@ -25,6 +25,8 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 ##
 
 >These minutes were approved by the Board of Directors on October 6, 2020.
->
-> `___signed__________`
+>\
+>\
+>\
+> `_____signed___________________________`
 > Lilia Rusu, Secretary
