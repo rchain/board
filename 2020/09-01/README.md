@@ -1,4 +1,4 @@
-<!Markdown rendering of [20200901_minutes.pdf](/2020/09-01/20200901_minutes.pdf)->
+Markdown rendering of [20200901_minutes.pdf](/2020/09-01/20200901_minutes.pdf)
 
 # RCHAIN COOPERATIVE
 
@@ -31,5 +31,5 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 >\
 >\
 >\
-> `_______signed_________________________`
+> `_____signed___________________________`
 > Lilia Rusu, Secretary
