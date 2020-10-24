@@ -1,4 +1,4 @@
-# DRAFT August 4
+<!Markdown rendering of [20200804_minutes.pdf](/2020/08-04/20200804_minutes.pdf)->
 
 # RCHAIN COOPERATIVE
 
@@ -20,7 +20,6 @@ In recognition for the work that Eric Meng, Juju, Atticbee and Bitcoin Loyal Fan
 Greg Meredith motioned to vote on the preceding resolution (Special Bonus for China Community Building). The motion was seconded by Steve Henley. All board members present voted unanimously in favor of the resolution.
 
 ## BOD Resolution: Board of Director Compensation
-
 
 Effective after the AGM:
 - The board is reducing the compensation to $40,000/yr in REV payable quarterly.
@@ -44,13 +43,11 @@ Steve Ross-Talbot motioned to vote on the preceding resolution (BOD Compensation
 
 ##
 
-*Meeting adjourned.*
-
 FINALLY RESOLVED, that any or all actions heretofore taken by any director of the Company with respect to any matter referred to or contemplated by the foregoing resolutions be, and hereby is, ratified and confirmed as the act and deed of the Company.
 
 ##
 
->These minutes were approved by the Board of Directors on September ___, 2020.
+>These minutes were approved by the Board of Directors on October 6, 2020.
 >
-> `___unsigned__________`
+> `___signed__________`
 > Lilia Rusu, Secretary
