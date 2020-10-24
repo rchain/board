@@ -1,4 +1,4 @@
-# DRAFT
+<!Markdown rendering of [20200630_minutes.pdf](/2020/06-30/20200630_minutes.pdf)->
 
 # RCHAIN COOPERATIVE
 
@@ -8,7 +8,6 @@
 *Absent:  Vlad Zamfir, Evan Jensen, Steve Ross-Talbot* \
 *Others Present:  Lilia Rusu, Ian Bloom, Rao Bhamidipati* \
 *Meeting called to order at 12:00 PM PDT.*
-
 
 The undersigned, being all of the members of the Board of Directors of RChain Cooperative, (the “Board”), a Washington cooperative (the “Coop”), pursuant to RCW 23.86, hereby approve and adopt the following resolutions at a duly called meeting (the “Resolutions”) held telephonically on June 30, 2020:
 
@@ -31,8 +30,6 @@ This is in recognition of the development team’s contributions including:
 
 Greg Meredith motioned to vote on the preceding resolution (Mainnet Launch Bonus for the RChain Core Development Team). The motion was seconded by Steve Henley. All board members present voted unanimously in favor of the resolution. Greg Meredith voted on behalf of Steve Ross Talbot also, having obtained a proxy.
 
-
-
 ##
 
 *Meeting adjourned.*
@@ -43,5 +40,5 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 >These minutes were approved by the Board of Directors on July ___, 2020.
 >
-> `___unsigned__________`
+> `___signed__________`
 > Lilia Rusu, Secretary
