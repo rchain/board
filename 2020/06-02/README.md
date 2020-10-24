@@ -1,4 +1,4 @@
-Markdown rendering of [20200602_minutes.pdf](/2020/06-02/20200602_minutes.pdf
+Markdown rendering of [20200602_minutes.pdf](/2020/06-02/20200602_minutes.pdf)
 
 # RCHAIN COOPERATIVE
 
