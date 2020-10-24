@@ -1,4 +1,4 @@
-# DRAFT September 1
+<!Markdown rendering of [20200901_minutes.pdf](/2020/09-01/20200901_minutes.pdf)->
 
 # RCHAIN COOPERATIVE
 
@@ -27,7 +27,9 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 ##
 
->These minutes were approved by the Board of Directors on September ___, 2020.
->
-> `___unsigned__________`
+>These minutes were approved by the Board of Directors on October 6, 2020.
+>\
+>\
+>\
+> `_______signed_________________________`
 > Lilia Rusu, Secretary
