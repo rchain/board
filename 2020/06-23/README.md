@@ -1,4 +1,4 @@
-<!Markdown rendering of [20200623_minutes.pdf](/2020/06-23/20200623_minutes.pdf)->
+Markdown rendering of [20200623_minutes.pdf](/2020/06-23/20200623_minutes.pdf)
 # RCHAIN COOPERATIVE
 
 ## RESOLUTIONS BY THE BOARD OF DIRECTORS AT A DULY CALLED MEETING
@@ -44,6 +44,8 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 ##
 
 >These minutes were approved by the Board of Directors on October 6, 2020.
->
-> `___signed__________`
+>\
+>\
+>\
+> `_____signed___________________________`
 > Lilia Rusu, Secretary
