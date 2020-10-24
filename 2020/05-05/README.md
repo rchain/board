@@ -25,6 +25,8 @@ Steve Ross-Talbot motioned that the board approve this resolution. The motion wa
 ## Approval of Prior Minutes
 Steve Henley motioned to approve the minutes of April board meetings held on April 7 and April 28. The motion was seconded by Steve Ross-Talbot. The board members present voted unanimously to adopt the resolution.
 
+##
+
 FINALLY RESOLVED, that any or all actions heretofore taken by any director of the Company with respect to any matter referred to or contemplated by the foregoing resolutions be, and hereby is, ratified and confirmed as the act and deed of the Company.
 
 >These minutes were approved by the Board of Directors on October 6, 2020.
