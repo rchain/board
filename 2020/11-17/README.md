@@ -1,3 +1,4 @@
+#### Draft (Pending BOD approval)
 <!--Markdown rendering of [2020/11-17/20201117-DocuSign.pdf](/2020/11-17/20201117-DocuSign.pdf)-->
 
 ##
