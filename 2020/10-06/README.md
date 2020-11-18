@@ -1,3 +1,4 @@
+#### Draft (Pending BOD approval)
 <!Markdown rendering of [20201006_minutes.pdf](/2020/04-28/20201006_minutes.pdf)->
 
 # RCHAIN COOPERATIVE
