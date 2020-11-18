@@ -1,4 +1,5 @@
- <!--Markdown rendering of [2020/11-3/20201103-DocuSign.pdf](/2020/11-03/20201103-DocuSign.pdf)-->
+#### Draft (Pending BOD approval)
+<!--Markdown rendering of [2020/11-3/20201103-DocuSign.pdf](/2020/11-03/20201103-DocuSign.pdf)-->
 
 ##
 
