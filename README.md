@@ -11,7 +11,6 @@ Board minutes and related documents
 - Camila Remaley ([Elected 10/24/2020](https://github.com/rchain/legaldocs/tree/master/2020%20Annual%20Meeting))
 
 ### Serving until 10/24/2022
- - Eric Meng ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
  - Steve Ross-Talbot ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
  - Steve Henley ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
 
