@@ -1,5 +1,5 @@
 #### Draft (Pending BOD approval)
-<!--Markdown rendering of [2021/08-24/20210824-DocuSign.pdf](/2021/08-24/20210824-DocuSign.pdf)-->
+<!--Markdown rendering of [2021/09-07/20210907-DocuSign.pdf](/2021/09-07/20210907-DocuSign.pdf)-->
 
 ##
 
