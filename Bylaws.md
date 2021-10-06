@@ -205,9 +205,7 @@ RChain may from time to time, directly or indirectly own or control corporations
 
 1.  ### RChain Tokens
 
-No additional RChain staking tokens may be created without an affirmative vote of less than 51% of active members present at a meeting at which a quorum is present of the membership to approve their creation. This includes creating additional tokens of a type which already exists, or the creation of a new category of staking token.
-
-No vote of the membership is required for the initial creation of REV tokens. After their initial creation, any additional creation of REV tokens shall require an affirmative vote of no less than 51% of active members present at a meeting at which a quorum is present.
+Any additional RChain staking tokens (REV) issuance shall require an **affirmative vote of greater than 50%** of active members present at a meeting at which a quorum of the membership is present to approve their creation. No vote of the membership is required for the initial creation of REV tokens.
 
 2.  ### Amendment Requires Member Vote
 
