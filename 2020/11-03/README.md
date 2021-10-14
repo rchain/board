@@ -21,6 +21,7 @@ The [Election Results](https://github.com/rchain/legaldocs/tree/master/2020%20An
  of the 2020 Annual Member Meeting yielded the following (current) Board of Directors:
 
 ### Serving until 10/24/23
+ - Greg Meredith ([Elected 10/24/2020](https://github.com/rchain/legaldocs/tree/master/2020%20Annual%20Meeting))
  - Rao Bhamidipati ([Elected 10/24/2020](https://github.com/rchain/legaldocs/tree/master/2020%20Annual%20Meeting))
  - Camila Salkov ([Elected 10/24/2020](https://github.com/rchain/legaldocs/tree/master/2020%20Annual%20Meeting))
 
