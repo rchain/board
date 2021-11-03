@@ -20,7 +20,7 @@ The undersigned, being all of the members of the Board of Directors of RChain Co
 
 ## Resolution: Marilyn Monroe NFTs
 
-On a motion by Evan Jensen, and seconded by Steve Henley, the board moved to direct the executive to oversee the creation and sale of the Marilyn Monroe NFTs created from the specific image(s) that the Eve Arnold Foundation has gifted to the Cooperative.
+On a motion by Evan Jensen, and seconded by Steve Henley, the board moved to direct the executive to oversee the creation and sale of the Marilyn Monroe NFTs created from the specific image(s) that the Eve Arnold Foundation has offered to make available to the Cooperative.
 
 All Ayes. The motion was carried unanimously.
 <br>
