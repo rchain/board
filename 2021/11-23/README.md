@@ -26,7 +26,7 @@ On a motion by Greg Meredith, and seconded by Steve Ross-Talbot, the board resol
 - Bill Keuntje
 - Steve Henley
 
-Ayes: Steve Henley, Steve Ross-Talbot, Eric Meng, Theo Hallenius \
+Ayes: Greg Meredith, Steve Henley, Steve Ross-Talbot, Eric Meng, Theo Hallenius \
 Abstaining: Rao Bhamidipati, Darryl Neudorf, Shixi Lin \
 Not present: Camila Salkov \
 The motion carries.
