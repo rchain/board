@@ -33,7 +33,7 @@ as a support contract and finder’s fee.
 
 The motion carries.
 
-Ayes: Greg Meredith, Steve Ross-Talbot, Darryl Neudorf, Theo Hallenius \
+Ayes: Greg Meredith, Steve Ross-Talbot, Darryl Neudorf, Theo Hallenius, Steve Henley \
 Abstaining: Camila Salkov, Rao Bhamidipati, Shixi Lin \
 Absent: Eric Meng \
 (Shixi formally requested to change her vote from abstain to aye)
@@ -55,7 +55,7 @@ as a support contract and finder’s fee.
 
 The motion carries.
 
-Ayes: Greg Meredith, Steve Ross-Talbot, Darryl Neudorf, Theo Hallenius \
+Ayes: Greg Meredith, Steve Ross-Talbot, Darryl Neudorf, Theo Hallenius, Steve Henley \
 Abstaining: Camila Salkov, Rao Bhamidipati, Shixi Lin \
 Absent: Eric Meng
 
