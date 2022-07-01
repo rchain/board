@@ -28,7 +28,7 @@ On a motion proposed by Shixi Lin and seconded by Greg Meredith, it was moved to
 RChain mainnet is moving towards decentralization and needs 3rd party validators and all REV holders to help secure the network. 
 The membership resolves that RChain Cooperative mint all validator rewards. Minting will be on an asymptotic schedule similar to 
 Bitcoin. The total validator rewards minted will not exceed 100M REV over the life of the protocol.
-(See supporting [illustration](https://coming-soon) of the asymptotic curve)
+(See supporting [illustration](TotalValidatorReward.JPG) of the asymptotic curve)
 
 #### 2. Unburning REV Tokens (IoB 2022-02)
 The membership resolves that upon the sale of 60M REV the Coop will unburn the [tokens](https://revdefine.io/#/revaccounts/1111dmyT6TSbyVRGx98srm5dbhQxzduoTAK3DNPSXM4swUBu9QgiV) that burned at the outset of the project. 
