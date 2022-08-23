@@ -64,7 +64,7 @@ Abstaining: none \
 Not present: Camila Salkov
 
 ## Resolution: Terminate *(specific investment partner contract under BOD consideration)* Contract Discussion
-On a motion proposed by Theo Hallenius and seconded by Steve Henley, it was moved by the board to terminate contract discussion with GEM.
+On a motion proposed by Theo Hallenius and seconded by Steve Henley, it was moved by the board to terminate contract discussion with *(specific investment partner contract under BOD consideration)*.
 
 Ayes: Steve Henley, Theo Hallenius, Rao Bhamidipati, Darryl Neudorf, Ting Yang, Jim Whitescarver, Camila Salkov (by proxy to Rao), Darryl Neudorf \
 Abstaining: none \
