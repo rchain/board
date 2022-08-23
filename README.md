@@ -6,19 +6,21 @@ Board minutes and related documents
 ## RChain Board of Directors:
 
 ### Serving until 10/24/2024
-- Shixi Lin ([Elected 10/24/2021](https://github.com/rchain/legaldocs/tree/master/2021%20Annual%20Meeting))
-- Eric Meng ([Elected 10/24/2021](https://github.com/rchain/legaldocs/tree/master/2021%20Annual%20Meeting))
+- ~~Shixi Lin~~ ([Elected 10/24/2021](https://github.com/rchain/legaldocs/tree/master/2021%20Annual%20Meeting))
+- ~~Eric Meng~~ ([Elected 10/24/2021](https://github.com/rchain/legaldocs/tree/master/2021%20Annual%20Meeting))
 - Darryl Neudorf ([Elected 10/24/2021](https://github.com/rchain/legaldocs/tree/master/2021%20Annual%20Meeting))
 
 ### Serving until 10/24/2023
-- Greg Meredith ([Elected 10/24/2020](https://github.com/rchain/legaldocs/tree/master/2020%20Annual%20Meeting))
+- ~~Greg Meredith~~ ([Elected 10/24/2020](https://github.com/rchain/legaldocs/tree/master/2020%20Annual%20Meeting))
 - Rao Bhamidipati ([Elected 10/24/2020](https://github.com/rchain/legaldocs/tree/master/2020%20Annual%20Meeting))
 - Camila Remaley ([Elected 10/24/2020](https://github.com/rchain/legaldocs/tree/master/2020%20Annual%20Meeting))
 
 ### Serving until 10/24/2022
- - Steve Ross-Talbot ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
+ - ~~Steve Ross-Talbot~~ ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
  - Steve Henley ([Elected 10/24/2019](https://github.com/rchain/legaldocs/tree/master/2019%20Annual%20Meeting))
  - Theo Hallenius ([Elected 10/24/2021](https://github.com/rchain/legaldocs/tree/master/2021%20Annual%20Meeting))
+ - Ting Yang ([Appointed 08/23/2022](https://github.com/rchain/board/tree/master/2022/08-23))
+ - Jim Whitescarver ([Appointed 08/23/2022](https://github.com/rchain/board/tree/master/2022/08-23))
 
 ## Annual General Meeting (AGM) Vote Results:
 - [2021](https://github.com/rchain/legaldocs/tree/master/2021%20Annual%20Meeting)
