@@ -68,4 +68,7 @@ FINALLY RESOLVED, that any or all actions heretofore taken by any director of th
 
 ##
 
->These minutes were approved by the Board of Directors on September xx, 2022.
+>These minutes were approved by the Board of Directors on August 25, 2022.
+>
+> `___signed__________`
+> Jim Whitescarver, interim Secretary
